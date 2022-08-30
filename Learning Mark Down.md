@@ -23,5 +23,5 @@ To make a bulletin or unordered list the - symbol will be used.
 To make an ordered list or numerical bulletin use numbers prior the text.
 
 Many other things are possible as well such as inserting cat images
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
