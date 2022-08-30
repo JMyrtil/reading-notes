@@ -8,9 +8,16 @@ Mark downs are various symbles and lettering that will customize your page such 
 
 - **Headings**  
 
-Headings are annotated with the # and anything that follows will become large bold words.
+Headings are annotated with the # symbol and anything that follows will become large bold words.
 
 - **Bold**
 
 Words can be made bold with the ** ** and __ __ symbol with whichever wording between them.
 
+- **Bulletin**
+
+To make a bulletin or unordered list the - symbol will be used.
+
+- **Ordered List**
+
+To make an ordered list or numerical bulletin use numbers prior the text.
