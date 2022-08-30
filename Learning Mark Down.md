@@ -8,3 +8,4 @@ Mark downs are various symbles and lettering that will customize your page such 
 
 **Headings**
 
+Headings are annotated with the # and anything that follows will become large bold words.
