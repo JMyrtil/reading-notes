@@ -1,7 +1,7 @@
 # reading-notes
 ## My Reading Notes
 
-**Hello** I'm _ _Joel_ _ and I'll become a Software Developer
+**Hello** I'm _Joel_ and I'll become a Software Developer
 
 To me growth mindset means never ending pursiut of knowledge
 
