@@ -3,6 +3,7 @@
 Simply put Git is a cloud where information can be saved and shared.
 
 ## What is Git Comprised of:
+
 - Snapshots
 - Local Operations
 - Tracking Changes
