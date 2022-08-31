@@ -1,6 +1,6 @@
 # What is Git?
 
-Simply put Git is a cloud where informtion can be saved and shared.
+Simply put Git is a cloud where information can be saved and shared.
 
 ## What is Git Comprised of:
 - Snapshots
