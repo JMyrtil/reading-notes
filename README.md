@@ -3,12 +3,9 @@
 
 **Hello** I'm **_Joel_** and I'll become a Software Developer
 
-To me growth mindset means never ending pursiut of knowledge
-
-Note to self:
-
-- **Never** be comfortable
-
-- Always be humble
-
-- If you think you know **everyhthing** you know **nothing**
+### Table of Contents
+- [Growth Mindset](https://jmyrtil.github.io/reading-notes/growth-mindset)
+- [Class 1](https://jmyrtil.github.io/reading-notes/learning-markdown)
+- [Class 2](https://jmyrtil.github.io/reading-notes/the-coders-computer)
+- [Class 3](https://jmyrtil.github.io/reading-notes/revisions-and-the-cloud)
+- [Class 4](https://jmyrtil.github.io/reading-notes/html)
