@@ -1,7 +1,8 @@
-# reading-notes
-## My Reading Notes
+# My Reading Notes
 
 **Hello** I'm **_Joel_** and I'll become a Software Developer
+
+## 102 Code - Intro to Software Development
 
 ### Table of Contents
 - [Growth Mindset](https://jmyrtil.github.io/reading-notes/growth-mindset)
