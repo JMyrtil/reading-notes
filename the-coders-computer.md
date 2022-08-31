@@ -24,5 +24,5 @@ In order to move around in the system a command called **cd** (which stands for 
 
 ## Files
 
-Everything is a **file** and this command will obtain information about what type of file a file or directory is. Unless they're hidden abd in that case the command **ls -a** is used (list the contents of a directory, including hidden files).
+Everything is a **file** and this command will obtain information about what type of file a file or directory is. Unless they're hidden and in that case the command **ls -a** is used (list the contents of a directory, including hidden files).
 
