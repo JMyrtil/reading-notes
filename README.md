@@ -12,3 +12,4 @@
 - [Class 3](https://jmyrtil.github.io/reading-notes/revisions-and-the-cloud)
 - [Class 4](https://jmyrtil.github.io/reading-notes/html)
 - [Class 5](https://jmyrtil.github.io/reading-notes/css)
+- [Class 6](https://jmyrtil.github.io/reading-notes/java)
