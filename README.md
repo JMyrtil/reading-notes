@@ -13,3 +13,5 @@
 - [Class 4](https://jmyrtil.github.io/reading-notes/html)
 - [Class 5](https://jmyrtil.github.io/reading-notes/css)
 - [Class 6](https://jmyrtil.github.io/reading-notes/java)
+- [Class 7](https://jmyrtil.github.io/reading-notes/programming)
+- [Class 8](https://jmyrtil.github.io/reading-notes/operators-loops)
