@@ -16,4 +16,9 @@
 - [Class 7](https://jmyrtil.github.io/reading-notes/programming)
 - [Class 8](https://jmyrtil.github.io/reading-notes/operators-loops)
 
-## 401 Code - Advanced Software Development
+## Code 201 - Foundations of Software Development
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
