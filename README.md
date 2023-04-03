@@ -21,4 +21,4 @@
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
- - [SQL Practice]()
+ - [SQL Practice](https://jmyrtil.github.io/reading-notes/sql-complete)
