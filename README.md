@@ -22,3 +22,4 @@
 
 ## Code 401 - Advanced Software Development
  - [SQL Practice](https://jmyrtil.github.io/reading-notes/sql-complete)
+ - [Command Line](https://jmyrtil.github.io/reading-notes/command-line)
