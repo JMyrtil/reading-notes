@@ -7,3 +7,7 @@ PWD stands for "Print Working Directory". It is a command that tells you which d
 LS is a command that lists the files and directories in the current directory. You can use various options with ls to change the format of the output or to show more details about the files and directories.
 
 CD stands for "Change Directory". It is a command that allows you to navigate to a different directory. You can use either a relative path or an absolute path to specify the directory you want to move to.
+
+A relative path is a file or directory location that is specified in relation to the current working directory. For example, if you are in the directory /home/user, and you want to navigate to the directory /home/user/documents, you can use the relative path documents.
+
+An absolute path is a file or directory location that is specified in relation to the root of the file system. For example, the absolute path to the directory /home/user/documents would be /home/user/documents.
